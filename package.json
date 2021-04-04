@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "debug": "*",
-    "commander": "1.0.5"
+    "commander": "7.1.0"
   },
   "devDependencies": {
     "axon": "2.0.0",
